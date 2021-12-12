@@ -26,7 +26,7 @@ Run gui
 + type your question
 
 ![image](https://user-images.githubusercontent.com/57497668/145707358-584b1ff8-f194-465c-a36c-ee2e5c75fe19.png)
-![image](https://user-images.githubusercontent.com/57497668/145707369-86522ccb-f993-4421-8a2d-5f79eb775eb3.png)
+   ![image](https://user-images.githubusercontent.com/57497668/145707369-86522ccb-f993-4421-8a2d-5f79eb775eb3.png)
 
 Run in localhost
 
